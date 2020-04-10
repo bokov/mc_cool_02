@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-03 20:44:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-02-23 16:30:54 -0600"
@@ -332,6 +338,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2019-06-30 20:18:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-04-03 21:59:31 -0500"
     },
     "done": true
   },
@@ -649,7 +661,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2020-04-03 21:15:57 -0500",
+      "minecraft:pillager": "2020-04-08 19:37:15 -0500",
       "minecraft:skeleton": "2019-02-23 16:49:13 -0600",
+      "minecraft:ravager": "2020-04-08 19:59:29 -0500",
       "minecraft:ghast": "2020-04-01 22:09:09 -0500",
       "minecraft:guardian": "2019-04-13 09:08:17 -0500",
       "minecraft:magma_cube": "2018-12-28 09:57:15 -0600",
@@ -672,6 +687,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-02-12 18:01:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-03 21:56:10 -0500"
     },
     "done": true
   },
@@ -774,6 +795,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-02-16 20:36:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2020-04-08 19:38:44 -0500"
     },
     "done": true
   },
@@ -912,6 +939,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2020-03-03 21:10:45 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-03 21:30:26 -0500"
     },
     "done": true
   },
@@ -1056,6 +1089,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2019-05-12 16:59:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-04-07 22:17:45 -0500"
     },
     "done": true
   },
@@ -1251,6 +1290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-03 21:56:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2020-03-03 20:38:12 -0600"
@@ -1259,10 +1304,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-04-07 21:54:19 -0500",
       "minecraft:forest": "2018-12-24 14:18:53 -0600",
       "minecraft:mountains": "2018-12-26 16:42:25 -0600",
       "minecraft:taiga": "2018-12-24 15:57:53 -0600",
+      "minecraft:deep_cold_ocean": "2020-04-07 21:54:08 -0500",
       "minecraft:taiga_hills": "2018-12-24 16:00:03 -0600",
+      "minecraft:birch_forest": "2020-04-08 19:39:39 -0500",
       "minecraft:deep_lukewarm_ocean": "2018-12-24 14:39:52 -0600",
       "minecraft:savanna_plateau": "2018-12-24 14:40:17 -0600",
       "minecraft:beach": "2018-12-24 14:14:12 -0600",
@@ -1287,6 +1335,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-07 01:03:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2020-04-03 22:02:52 -0500"
     },
     "done": true
   },
@@ -1377,6 +1431,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2020-03-06 22:28:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-03 20:44:30 -0500"
     },
     "done": true
   },
@@ -1542,6 +1602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-03 21:56:10 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2018-12-25 11:34:35 -0600"
@@ -1593,6 +1659,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-02-10 21:21:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-03 20:44:30 -0500"
     },
     "done": true
   },
@@ -2080,6 +2152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2020-04-03 21:59:31 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2018-12-25 11:34:35 -0600"
@@ -2296,6 +2374,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-04-08 19:37:15 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-02-18 07:11:27 -0600"
@@ -2353,6 +2437,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-02-12 18:02:25 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2020-04-08 20:07:47 -0500"
     },
     "done": true
   },
@@ -2530,6 +2620,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-04-02 21:56:02 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-03-13 15:39:23 -0500"
@@ -2674,6 +2770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2020-04-03 20:44:30 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2018-12-27 13:56:35 -0600"
@@ -2758,6 +2860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-03 21:30:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-12-25 11:22:44 -0600"
@@ -2803,6 +2911,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2019-05-12 16:34:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-03 21:30:26 -0500"
     },
     "done": true
   },

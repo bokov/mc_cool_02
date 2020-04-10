@@ -1,5 +1,6 @@
 */deaths/
 level.dat_old
-*/playerdata/
+level.dat
+#*/playerdata/
 session.lock
 
